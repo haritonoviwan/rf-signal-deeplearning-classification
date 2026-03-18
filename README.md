@@ -91,7 +91,8 @@
 | FSK / Sin / SymLFM | 0.97 | 0.98 | 0.98 |
 
 
-<img src="img/sig_confusion_matrix.png" width="45%" alt="Матрица ошибок сигналов"> <img src="img/noise_confusion_matrix.png" width="46%" alt="Матрица ошибок помех">
+<img src="img/sig_confusion_matrix.png" height="45%" alt="Матрица ошибок сигналов"> 
+<img src="img/noise_confusion_matrix.png" height="45%" alt="Матрица ошибок помех">
 
 *Матрицы ошибок: Высокая разделимость классов. Незначительные смешения наблюдаются только между FSK и Sin на критических уровнях шума.*
 
